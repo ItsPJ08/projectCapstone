@@ -1,4 +1,4 @@
-# Phishing & Account Compromise Investigation Lab
+# Phishing & Account Compromise Investigation Project
 
 ## Project Overview
 
