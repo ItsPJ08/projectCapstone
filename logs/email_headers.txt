@@ -1,0 +1,14 @@
+From: IT Support <support@company-security-alert.com>
+To: jdoe@company.com
+Subject: Urgent: Password Expiration Notice
+Date: Fri, 01 May 2026 09:05:12 -0700
+Reply-To: support@company-security-alert.com
+Return-Path: bounce@company-security-alert.com
+Received-SPF: fail
+Authentication-Results: spf=fail; dkim=none; dmarc=fail
+Message-ID: <908172-alert@company-security-alert.com>
+
+Email Body Summary:
+The user was told their password would expire and was asked to click a link to verify their account.
+Suspicious URL:
+http://company-security-alert.com/login-verify

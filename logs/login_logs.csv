@@ -1,0 +1,13 @@
+timestamp,user,ip_address,event,status,location
+2026-05-01 08:45,jdoe,192.168.1.15,login,success,California
+2026-05-01 09:02,asmith,192.168.1.18,login,success,California
+2026-05-01 09:12,jdoe,185.220.101.45,login,failed,Unknown
+2026-05-01 09:13,jdoe,185.220.101.45,login,failed,Unknown
+2026-05-01 09:14,jdoe,185.220.101.45,login,failed,Unknown
+2026-05-01 09:16,jdoe,185.220.101.45,login,success,Unknown
+2026-05-01 09:18,jdoe,185.220.101.45,password_change,success,Unknown
+2026-05-01 09:22,jdoe,185.220.101.45,email_forwarding_rule_created,success,Unknown
+2026-05-01 10:10,mgarcia,192.168.1.20,login,success,California
+2026-05-01 10:35,asmith,45.133.1.84,login,failed,Unknown
+2026-05-01 10:36,asmith,45.133.1.84,login,failed,Unknown
+2026-05-01 10:37,asmith,45.133.1.84,login,failed,Unknown
